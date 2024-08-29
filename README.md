@@ -88,20 +88,13 @@ skinyfits/
 └── README.md
 ```
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/skinyfits/issues).
-
-## 📝 License
-
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ## 👤 Author
 
-**Your Name**
+**RAO MUHAMMAD JUNAID**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [@yourlinkedin](https://linkedin.com/in/yourlinkedin)
+- GitHub: [@junaidrao47](https://github.com/junaidrao47)
+- LinkedIn: [@muhammad-junaid](https://www.linkedin.com/in/rao-muhammad-junaid-99a354252/)
 
 ---
 
