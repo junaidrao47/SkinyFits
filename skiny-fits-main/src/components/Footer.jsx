@@ -11,13 +11,13 @@ const Footer = () => {
             <p className="text-slate-400">&copy; 2024 Skinfits. All rights reserved.</p>
           </div>
           <div className="flex space-x-4">
-            <a href="https://github.com/yourusername/skinfits" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 transition duration-200">
+            <a href="https://github.com/junaidrao47" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 transition duration-200">
               <i className="fab fa-github"></i> GitHub
             </a>
-            <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 transition duration-200">
+            <a href="https://www.linkedin.com/in/rao-muhammad-junaid-99a354252/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 transition duration-200">
               <i className="fab fa-linkedin"></i> LinkedIn
             </a>
-            <a href="https://instagram.com/skinfits" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 transition duration-200">
+            <a href="https://www.instagram.com/junaidrajput_47/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 transition duration-200">
               <i className="fab fa-instagram"></i> Instagram
             </a>
           </div>
