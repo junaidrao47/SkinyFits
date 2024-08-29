@@ -44,8 +44,6 @@ SkinyFits is a dynamic workout generator built with React, designed to help fitn
 2. Open your browser and visit `http://localhost:5173` (or the port specified by Vite)
 
 ## 🏗️ Project Structure
-
-```
 skinyfits/
 │
 ├── public/
@@ -61,6 +59,7 @@ skinyfits/
 │   │   └── SectionWrapper.jsx
 │   │
 │   ├── utils/
+│   │   ├── functions.js
 │   │   └── swoldier.js
 │   │
 │   ├── App.jsx
@@ -68,7 +67,6 @@ skinyfits/
 │
 ├── package.json
 └── README.md
-```
 
 
 ## 👤 Author
