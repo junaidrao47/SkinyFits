@@ -1,6 +1,10 @@
 # SkinyFits
 
-![SkinyFits Logo](./src/assets/skinfits-logo.png)
+<!-- ### Project overview
+![](./skiny-fits-main/public/skinyFits.mkv) -->
+
+![SkinyFits Logo](./skiny-fits-main/src/assets/skinfits-logo.png)
+
 
 SkinyFits is a dynamic workout generator built with React, designed to help fitness enthusiasts create personalized exercise routines with ease.
 
@@ -9,13 +13,13 @@ SkinyFits is a dynamic workout generator built with React, designed to help fitn
 Here are some screenshots of the SkinyFits application:
 
 ### Home Page
-![Home Page](./public/Home.png)
+![Home Page](./skiny-fits-main/public/Home.png)
 
 ### Workout Generator
-![Workout Generator](./public/Workout-Genrator.png)
+![Workout Generator](./skiny-fits-main/public/Workout-Genrator.png)
 
 ### Exercise Details
-![Exercise Details](./public/Exercise.png)
+![Exercise Details](./skiny-fits-main/public/Exercise.png)
 
 ## 🚀 Features
 
@@ -89,14 +93,15 @@ skinyfits/
 ```
 
 
+
+
 ## 👤 Author
 
-**RAO MUHAMMAD JUNAID**
+**Rao Muhammad Junaid**
 
 - GitHub: [@junaidrao47](https://github.com/junaidrao47)
-- LinkedIn: [@muhammad-junaid](https://www.linkedin.com/in/rao-muhammad-junaid-99a354252/)
+- LinkedIn: [@rao-muhammad-Junaid](https://www.linkedin.com/in/rao-muhammad-junaid-99a354252/)
 
 ---
 
 ⭐️ Star this repo if you like what you see!
-
