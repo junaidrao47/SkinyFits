@@ -1,8 +1,21 @@
 # SkinyFits
 
-![SkinyFits Logo]()
+![SkinyFits Logo](./public/skinyfits-logo.png)
 
 SkinyFits is a dynamic workout generator built with React, designed to help fitness enthusiasts create personalized exercise routines with ease.
+
+## 🖼️ Project Screenshots
+
+Here are some screenshots of the SkinyFits application:
+
+### Home Page
+![Home Page](./public/screenshots/home-page.png)
+
+### Workout Generator
+![Workout Generator](./public/screenshots/workout-generator.png)
+
+### Exercise Details
+![Exercise Details](./public/screenshots/exercise-details.png)
 
 ## 🚀 Features
 
@@ -44,11 +57,17 @@ SkinyFits is a dynamic workout generator built with React, designed to help fitn
 2. Open your browser and visit `http://localhost:5173` (or the port specified by Vite)
 
 ## 🏗️ Project Structure
+
+```
 skinyfits/
 │
 ├── public/
 │   ├── favicon.ico
-│   └── index.html
+│   ├── index.html
+│   └── screenshots/
+│       ├── home-page.png
+│       ├── workout-generator.png
+│       └── exercise-details.png
 │
 ├── src/
 │   ├── components/
@@ -67,13 +86,21 @@ skinyfits/
 │
 ├── package.json
 └── README.md
+```
 
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/skinyfits/issues).
+
+## 📝 License
+
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ## 👤 Author
 
-**Rao Muhammad Junaid**
+**Your Name**
 
-- GitHub: [@yourusername](https://github.com/junaidrao47)
+- GitHub: [@yourusername](https://github.com/yourusername)
 - LinkedIn: [@yourlinkedin](https://linkedin.com/in/yourlinkedin)
 
 ---
